@@ -3,15 +3,15 @@
   "sounds": [
     {
       "id":1,
-      "sound_file":"haha.mp3",
-      "button_title":"HAHA",
-      "button_icon":"haha.png"
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"Laughing Audience",
+      "button_icon":"laughing-audience.png"
     },
     {
       "id":2,
-      "sound_file":"ooohh.mp3",
-      "button_title":"OOOH",
-      "button_icon":"oooh.png"
-    },
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"Laughing Audience 2",
+      "button_icon":"laughing-audience.png"
+    }
   ]
 }
