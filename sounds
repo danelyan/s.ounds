@@ -4,14 +4,75 @@
     {
       "id":1,
       "sound_file":"laughing-audience.mp3",
-      "button_title":"Laughing Audience",
-      "button_icon":"laughing-audience.png"
+      "button_title":"Funny Joke",
+      "button_icon":"icon.png"
     },
     {
       "id":2,
       "sound_file":"laughing-audience.mp3",
-      "button_title":"Laughing Audience 2",
-      "button_icon":"laughing-audience.png"
+      "button_title":"Fart",
+      "button_icon":"icon.png"
+    },
+    {
+      "id":3,
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"Puke",
+      "button_icon":"icon.png"
+    },
+    {
+      "id":4,
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"LOL",
+      "button_icon":"icon.png"
+    },
+    {
+      "id":5,
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"Rain",
+      "button_icon":"icon.png"
+    },
+    {
+      "id":6,
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"Directed by",
+      "button_icon":"icon.png"
+    },
+    {
+      "id":7,
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"Fail",
+      "button_icon":"icon.png"
+    },
+    {
+      "id":8,
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"Батя, нормально?",
+      "button_icon":"icon.png"
+    },
+    {
+      "id":9,
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"Вот это прикол",
+      "button_icon":"icon.png"
+    },
+    {
+      "id":10,
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"Соболев",
+      "button_icon":"icon.png"
+    },
+    {
+      "id":11,
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"Ларин",
+      "button_icon":"icon.png"
+    },
+    {
+      "id":12,
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"Джарахов",
+      "button_icon":"icon.png"
     }
+	
   ]
 }
