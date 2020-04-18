@@ -5,7 +5,7 @@
       "id":1,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Funny Joke",
-      "button_icon":"Funny-Joke.png"
+      "button_icon":"FunnyJoke.png"
     },
     {
       "id":2,
@@ -35,7 +35,7 @@
       "id":6,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Directed by",
-      "button_icon":"Directed-by.png"
+      "button_icon":"Directedby.png"
     },
     {
       "id":7,
@@ -47,13 +47,13 @@
       "id":8,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Батя, нормально?",
-      "button_icon":"Батя-нормально.png"
+      "button_icon":"Батянормально.png"
     },
     {
       "id":9,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Вот это прикол",
-      "button_icon":"Вот-это-прикол.png"
+      "button_icon":"Вотэтоприкол.png"
     },
     {
       "id":10,
@@ -77,7 +77,7 @@
       "id":13,
       "sound_file":"laughing-audience.mp3",
       "button_title":"В окно не попади",
-      "button_icon":"В-окно-не-попади.png"
+      "button_icon":"Вокнонепопади.png"
     }
 	
   ]
