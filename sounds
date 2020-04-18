@@ -72,6 +72,12 @@
       "sound_file":"laughing-audience.mp3",
       "button_title":"Джарахов",
       "button_icon":"Джарахов.png"
+    },
+    {
+      "id":13,
+      "sound_file":"laughing-audience.mp3",
+      "button_title":"В окно не попади",
+      "button_icon":"В-окно-не-попади.png"
     }
 	
   ]
