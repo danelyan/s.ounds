@@ -5,73 +5,73 @@
       "id":1,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Funny Joke",
-      "button_icon":"1.png"
+      "button_icon":"Funny-Joke.png"
     },
     {
       "id":2,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Fart",
-      "button_icon":"2.png"
+      "button_icon":"Fart.png"
     },
     {
       "id":3,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Puke",
-      "button_icon":"3.png"
+      "button_icon":"Puke.png"
     },
     {
       "id":4,
       "sound_file":"laughing-audience.mp3",
       "button_title":"LOL",
-      "button_icon":"4.png"
+      "button_icon":"LOL.png"
     },
     {
       "id":5,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Rain",
-      "button_icon":"5.png"
+      "button_icon":"Rain.png"
     },
     {
       "id":6,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Directed by",
-      "button_icon":"6.png"
+      "button_icon":"Directed-by.png"
     },
     {
       "id":7,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Fail",
-      "button_icon":"7.png"
+      "button_icon":"Fail.png"
     },
     {
       "id":8,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Батя, нормально?",
-      "button_icon":"Icon.png"
+      "button_icon":"Батя-нормально.png"
     },
     {
       "id":9,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Вот это прикол",
-      "button_icon":"8.png"
+      "button_icon":"Вот-это-прикол.png"
     },
     {
       "id":10,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Соболев",
-      "button_icon":"9.png"
+      "button_icon":"Соболев.png"
     },
     {
       "id":11,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Ларин",
-      "button_icon":"10.png"
+      "button_icon":"Ларин.png"
     },
     {
       "id":12,
       "sound_file":"laughing-audience.mp3",
       "button_title":"Джарахов",
-      "button_icon":"Icon.png"
+      "button_icon":"Джарахов.png"
     }
 	
   ]
