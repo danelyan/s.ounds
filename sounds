@@ -3,81 +3,81 @@
   "sounds": [
     {
       "id":1,
-      "sound_file":"laughing-audience.mp3",
-      "button_title":"Funny Joke",
-      "button_icon":"FunnyJoke.png"
+      "sound_file":"fiasco.mp3",
+      "button_title":"Это фиаско, Братан",
+      "button_icon":"fiasco.png"
     },
     {
       "id":2,
-      "sound_file":"laughing-audience.mp3",
-      "button_title":"Fart",
-      "button_icon":"Fart.png"
-    },
-    {
-      "id":3,
-      "sound_file":"laughing-audience.mp3",
-      "button_title":"Puke",
-      "button_icon":"Puke.png"
-    },
-    {
-      "id":4,
-      "sound_file":"laughing-audience.mp3",
-      "button_title":"LOL",
-      "button_icon":"LOL.png"
-    },
-    {
-      "id":5,
-      "sound_file":"laughing-audience.mp3",
-      "button_title":"Rain",
-      "button_icon":"Rain.png"
-    },
-    {
-      "id":6,
-      "sound_file":"laughing-audience.mp3",
+      "sound_file":"Directedby.mp3",
       "button_title":"Directed by",
       "button_icon":"Directedby.png"
     },
     {
-      "id":7,
-      "sound_file":"laughing-audience.mp3",
-      "button_title":"Fail",
-      "button_icon":"Fail.png"
+      "id":3,
+      "sound_file":"prikol.mp3",
+      "button_title":"Вот это прикол!",
+      "button_icon":"Вотэтоприкол.png"
     },
     {
-      "id":8,
-      "sound_file":"laughing-audience.mp3",
+      "id":4,
+      "sound_file":"Normalno.mp3",
       "button_title":"Батя, нормально?",
       "button_icon":"Батянормально.png"
     },
     {
+      "id":5,
+      "sound_file":"hagay.mp3",
+      "button_title":"Ha! Gaaay",
+      "button_icon":"hagay.png"
+    },
+    {
+      "id":6,
+      "sound_file":"plakat.mp3",
+      "button_title":"Мне хочется плакать",
+      "button_icon":"plakat.png"
+    },
+    {
+      "id":7,
+      "sound_file":"vsteklo.mp3",
+      "button_title":"В стекло не попади!",
+      "button_icon":"Вокнонепопади.png"
+    },
+    {
+      "id":8,
+      "sound_file":"larin.mp3",
+      "button_title":"Ларин: Ни-ху",
+      "button_icon":"larin.png"
+    },
+    {
       "id":9,
-      "sound_file":"laughing-audience.mp3",
+      "sound_file":"Votetopovorot.mp3",
       "button_title":"Вот это прикол",
-      "button_icon":"Вотэтоприкол.png"
+      "button_icon":"povorot.png"
     },
     {
       "id":10,
-      "sound_file":"laughing-audience.mp3",
-      "button_title":"Соболев",
-      "button_icon":"Соболев.png"
+      "sound_file":"neponyal.mp3",
+      "button_title":"Но очень интересно!",
+      "button_icon":"neponyal.png"
     },
     {
       "id":11,
-      "sound_file":"laughing-audience.mp3",
-      "button_title":"Ларин",
-      "button_icon":"Ларин.png"
+      "sound_file":"netochno.mp3",
+      "button_title":"Но это не точно",
+      "button_icon":"netochno.png"
     },
     {
       "id":12,
-      "sound_file":"laughing-audience.mp3",
-      "button_title":"Джарахов",
-      "button_icon":"Джарахов.png"
+      "sound_file":"Default.mp3",
+      "button_title":"Дефолтный звук",
+      "button_icon":"Default.png"
     },
     {
       "id":13,
-      "sound_file":"laughing-audience.mp3",
-      "button_title":"В окно не попади",
-      "button_icon":"Вокнонепопади.png"
+      "sound_file":"Default.mp3",
+      "button_title":"Дефолтный звук 2",
+      "button_icon":"Default.png"
     }
 	
   ]
